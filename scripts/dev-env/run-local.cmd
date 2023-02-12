@@ -1,6 +1,6 @@
 @echo off
 
-rem This is a script to use a locally build docker image to run the tests
+rem This is a script to use a locally built docker image to run the tests
 
 set image="sha256:528f8e1ca9063b9346c7d4f684d7aadbcb58ca1fba2b1a3c2cdd9c820c4236f4"
 

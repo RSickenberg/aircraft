@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-# This is a script to use a locally build docker image to run the tests
+# This is a script to use a locally built docker image to run the tests
 
 IMAGE="sha256:528f8e1ca9063b9346c7d4f684d7aadbcb58ca1fba2b1a3c2cdd9c820c4236f4"
 
